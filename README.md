@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a very trial for learning SVM in OpenCV. In this project, I try to classify two types of images, one is Anny's while the other is Leesin's, by using SVM.
+This is a very simple trial for learning SVM in OpenCV. In this project, I try to classify two types of images, one is Anny's while the other is Leesin's, by using SVM.
 
 For more detail, you may review the code. I am too lazy to write the readme file. I am very sorry for that.
 
